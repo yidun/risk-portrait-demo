@@ -9,7 +9,7 @@ package com.netease.is.risk.demo.callback;
 import lombok.Data;
 
 /**
- * @author zouwenzhuo01
+ * @author yidun
  * @version 2022-09-02
  */
 @Data
